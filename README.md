@@ -1,5 +1,6 @@
+<p align="center"><a href="https://makecode.microbit.org" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="400" alt="Microbit Logo"></a></p>
 
-> Abra esta pagina en [https://oscarsanz2000.github.io/microbit-oscar-sanz/](https://oscarsanz2000.github.io/microbit-oscar-sanz/)
+>Abra esta pagina en [https://oscarsanz2000.github.io/microbit-oscar-sanz/](https://oscarsanz2000.github.io/microbit-oscar-sanz/)
 
 ## Usar como extensión
 
