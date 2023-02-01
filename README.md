@@ -10,7 +10,7 @@
 Aquest projecte de microbit , calcula una secuencia de numeros sobre potencies de 10, marcant per l'usuari,mitjançant els botons de la placa, la quantitat de nombres que volem de la secuencia  
 
 ### Screenshot
-![Imatge Microbit](https://drive.google.com/file/d/16pEsOzneXknKNxXRfWaRgj4C2GUimYJT/view?usp=sharing)
+![Imatge Microbit](https://github.com/OscarSanz2000/microbit-oscar-sanz/blob/c7d91d791b5e10caafff2979acc023bfb054a794/Captura2.PNG)
 ## Technologies
 ***
 A list of technologies used within the project:
